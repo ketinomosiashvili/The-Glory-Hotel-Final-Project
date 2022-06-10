@@ -23,19 +23,19 @@ function closeNav() {
 // Slider
 let data = [
     {
-        imageUrl: '../images/slider-img-1.jpg',
+        imageUrl: 'images/slider-img-1.jpg',
     },
     {
-        imageUrl: '../images/slider-img-2.jpg',
+        imageUrl: 'images/slider-img-2.jpg',
     },
     {
-        imageUrl: '../images/slider-img-3.jpg',
+        imageUrl: 'images/slider-img-3.jpg',
     },
     {
-        imageUrl: '../images/slider-img-4.jpg',
+        imageUrl: 'images/slider-img-4.jpg',
     },
     {
-        imageUrl: '../images/slider-img-5.jpg',
+        imageUrl: 'images/slider-img-5.jpg',
     }
 ]
 let arrowLeft = document.getElementById('arrow-left');
