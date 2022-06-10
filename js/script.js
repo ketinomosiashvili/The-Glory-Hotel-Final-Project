@@ -23,19 +23,19 @@ function closeNav() {
 // Slider
 let data = [
     {
-        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/slider-img-1.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/images/slider-img-1.jpg',
     },
     {
-        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/slider-img-2.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/images/slider-img-2.jpg',
     },
     {
-        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/slider-img-3.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/images/slider-img-3.jpg',
     },
     {
-        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/slider-img-4.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/images/slider-img-4.jpg',
     },
     {
-        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/main/images/slider-img-5.jpg',
+        imageUrl: 'https://ketinomosiashvili.github.io/The-Glory-Hotel-Final-Project/images/slider-img-5.jpg',
     }
 ]
 let arrowLeft = document.getElementById('arrow-left');
